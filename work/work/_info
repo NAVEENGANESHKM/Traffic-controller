@@ -1,0 +1,35 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dE:/hmm
+vAdd4
+!s110 1720000774
+!i10b 1
+!s100 hNQcZhmel3SiOAIiLe[;k1
+!s11b Dg1SIo80bB@j0V0VzS_@n1
+IJ?]NJ6]ae:E?1;T2fX13;0
+VDg1SIo80bB@j0V0VzS_@n1
+dE:/hmm/work
+w1720000605
+8E:/hmm/work/Add4.v
+FE:/hmm/work/Add4.v
+!i122 0
+L0 1 17
+OV;L;2020.1;71
+r1
+!s85 0
+31
+!s108 1720000774.000000
+!s107 E:/hmm/work/Add4.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/hmm/work/Add4.v|
+!i113 1
+o-work work
+tCvgOpt 0
+n@add4

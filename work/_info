@@ -1,0 +1,171 @@
+m255
+K4
+z2
+!s11e vcom 2020.1 2020.02, Feb 28 2020
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dE:/hmm
+vAAC2M3P1_tb
+!s110 1720080580
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+r1
+!s85 0
+!i10b 1
+!s100 Fh8OcUXRTeHM[[?UlPh8F2
+I?eO_KcFW>C?>_L92XEQ=A1
+!i119 1
+R0
+w1720079005
+8E:/hmm/AAC2M3P3/AAC2M3P3_tb.vp
+FE:/hmm/AAC2M3P3/AAC2M3P3_tb.vp
+!i122 1
+L0 63 52
+Z2 OV;L;2020.1;71
+31
+!s108 1720080580.000000
+!s107 E:/hmm/AAC2M3P3/AAC2M3P3_tb.vp|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/hmm/AAC2M3P3/AAC2M3P3_tb.vp|
+!i113 1
+Z3 o-work work
+Z4 tCvgOpt 0
+n@a@a@c2@m3@p1_tb
+vfind_errors
+!s110 1720080575
+R1
+r1
+!s85 0
+!i10b 1
+!s100 3;Hk:Bn5MS4:DijX^^KdY3
+IA8^SOfQln4kaRZojAc8lj2
+R0
+w1720080574
+8E:/hmm/AAC2M3P3/AAC2M3P3.v
+FE:/hmm/AAC2M3P3/AAC2M3P3.v
+!i122 0
+L0 38 41
+R2
+31
+!s108 1720080575.000000
+!s107 E:/hmm/AAC2M3P3/AAC2M3P3.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/hmm/AAC2M3P3/AAC2M3P3.v|
+!i113 1
+R3
+R4
+vTraffic_Light_Controller_TB
+!s110 1721062153
+R1
+r1
+!s85 0
+!i10b 1
+!s100 ^fY9;HF=VPj2N<ZSRKDPm3
+I]]9hR4[^NmfI];aW]6RlO3
+R0
+w1721062150
+Z5 8E:/hmm/trafficcontrol_tb.v
+Z6 FE:/hmm/trafficcontrol_tb.v
+!i122 10
+L0 4 29
+R2
+31
+!s108 1721062152.000000
+Z7 !s107 E:/hmm/trafficcontrol_tb.v|
+Z8 !s90 -reportprogress|300|-work|work|-stats=none|E:/hmm/trafficcontrol_tb.v|
+!i113 1
+R3
+R4
+n@traffic_@light_@controller_@t@b
+vtrafficcontrol
+!s110 1721064076
+!i10b 1
+!s100 glS=bCMPN2M7DN_h@@V^O0
+Z9 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IMOX]n1o234j5gk9g^cckR0
+R1
+R0
+w1721063449
+Z10 8E:/hmm/trafficcontrol.v
+Z11 FE:/hmm/trafficcontrol.v
+!i122 24
+Z12 L0 2 109
+R2
+r1
+!s85 0
+31
+!s108 1721064076.000000
+Z13 !s107 E:/hmm/trafficcontrol.v|
+Z14 !s90 -reportprogress|300|-work|work|-stats=none|E:/hmm/trafficcontrol.v|
+!i113 1
+R3
+R4
+vtrafficcontrol_tb
+!s110 1721064075
+!i10b 1
+!s100 UBT653hd8nX[Ag`iRd2]j1
+R9
+I__H2T;Cbk3mXVmf4hD1b93
+R1
+R0
+w1721064053
+R5
+R6
+!i122 23
+L0 3 36
+R2
+r1
+!s85 0
+31
+!s108 1721064075.000000
+R7
+R8
+!i113 1
+R3
+R4
+vtrafficcontroller
+!s110 1721061957
+R1
+r1
+!s85 0
+!i10b 1
+!s100 5;khU`0W5PU1mHiVf?;aU3
+IQ`1c6haI`WO2>;<A@M]kP2
+R0
+w1721061955
+R10
+R11
+!i122 9
+R12
+R2
+31
+!s108 1721061957.000000
+R13
+R14
+!i113 1
+R3
+R4
+vtrafficcontroller_tb
+!s110 1721061933
+R1
+r1
+!s85 0
+!i10b 1
+!s100 kcf=R>1ECL=6`PKDjCO:W2
+Igeee3SV6Z>nBU^H05Okaj3
+R0
+w1721061931
+R5
+R6
+!i122 8
+L0 4 23
+R2
+31
+!s108 1721061933.000000
+R7
+R8
+!i113 1
+R3
+R4
